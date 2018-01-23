@@ -1,0 +1,11 @@
+{
+  "name": "thexfiles",
+  "version": "1.0.0",
+  "description": "rc files, and various configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Redfearn",
+  "license": "ISC"
+}
